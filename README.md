@@ -49,3 +49,12 @@ Kontak
 Nama: Kongali1720
 Email: kongali1720@gmail.com
 GitHub: https://github.com/kongali1720
+
+### Support
+
+Jika kamu merasa project ini bermanfaat dan ingin mendukung pengembangan lebih lanjut, kamu bisa mentransfer sedikit dukungan melalui PayPal:
+
+[**Buy Me a Coffee**](https://www.paypal.me/username)
+
+Terima kasih atas dukungannya!
+
